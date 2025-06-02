@@ -1,4 +1,4 @@
-## Seja bem-vindo ao Coral OS! 🐍
+## 🐍 Seja bem-vindo ao Coral OS!
 
 O Coral OS é uma distribuição baseada no Arch Linux, inspirada na beleza e nos padrões únicos da cobra coral brasileira. Nascida da paixão por sistemas embarcados, privacidade digital e minimalismo funcional, esta distro busca equilibrar liberdade, leveza e facilidade de uso — mesmo para quem está começando no mundo Linux.
 
