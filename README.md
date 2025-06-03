@@ -1,6 +1,6 @@
 ## 🐍 Welcome to Coral OS!
 
-[🇧🇷 PT-BR version: pt-br.md ]
+[🇧🇷 PT-BR version: [pt-br.md](https://github.com/Coral-OS/README/blob/main/pt-br.md) ]
 
 **Coral OS** is a distribution based on Arch Linux, inspired by the beauty and unique patterns of the Brazilian coral snake. Born from a passion for embedded systems, digital privacy, and functional minimalism, this distro aims to balance **freedom, lightness, and ease of use** — even for those just starting out in the Linux world.
 
