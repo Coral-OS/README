@@ -10,7 +10,7 @@ O projeto surgiu como parte de um portfólio pessoal, mas está sendo desenvolvi
 
 O Coral OS segue alguns princípios fundamentais:
 
-↳ **Minimalismo útil**  
+↳ **Minimalismo funcional**  
 Menos é mais. O objetivo não é entregar uma distro crua, mas sim uma base enxuta e funcional, com pacotes essenciais que ajudem o usuário iniciante a começar sem perder a leveza e a liberdade de escolha.
 
 ↳ **Privacidade e transparência**  
