@@ -1,31 +1,33 @@
-## 🐍 Seja bem-vindo ao Coral OS!
+## 🐍 Welcome to Coral OS!
 
-O Coral OS é uma distribuição baseada no Arch Linux, inspirada na beleza e nos padrões únicos da cobra coral brasileira. Nascida da paixão por sistemas embarcados, privacidade digital e minimalismo funcional, esta distro busca equilibrar liberdade, leveza e facilidade de uso — mesmo para quem está começando no mundo Linux.
+[🇧🇷 PT-BR version: ]
 
-O projeto surgiu como parte de um portfólio pessoal, mas está sendo desenvolvido com atenção aos detalhes, servindo como base sólida para aprendizado, uso diário e experimentação.
+**Coral OS** is a distribution based on Arch Linux, inspired by the beauty and unique patterns of the Brazilian coral snake. Born from a passion for embedded systems, digital privacy, and functional minimalism, this distro aims to balance **freedom, lightness, and ease of use** — even for those just starting out in the Linux world.
 
----
-
-## Filosofia do Coral OS
-
-O Coral OS segue alguns princípios fundamentais:
-
-↳ **Minimalismo útil**  
-Menos é mais. O objetivo não é entregar uma distro crua, mas sim uma base enxuta e funcional, com pacotes essenciais que ajudem o usuário iniciante a começar sem perder a leveza e a liberdade de escolha.
-
-↳ **Privacidade e transparência**  
-Todos os programas incluídos por padrão no sistema são escolhidos com base em dois critérios: **respeito à privacidade do usuário** e **código aberto**. Navegadores, utilitários e ferramentas são selecionados com cautela — como é o caso do Brave, que alia estabilidade, desempenho e foco na privacidade.
+The project began as part of a personal portfolio, but it's being developed with care and attention to detail, serving as a solid foundation for learning, daily use, and experimentation.
 
 ---
 
-## Como instalar o Coral OS
+## Philosophy of Coral OS
 
-📌 **Nota:** Ainda não há uma ISO oficial ou release final do Coral OS. No entanto, você pode acompanhar o desenvolvimento e testar a construção a partir dos scripts disponíveis neste repositório.
+Coral OS follows a few core principles:
 
-Assim que a ISO estiver disponível, será publicado um guia de instalação oficial.
+↳ **Minimalism with purpose**  
+Less is more. The goal is not to deliver a barebones system, but rather a lightweight and functional base with essential packages that help new users get started — without sacrificing simplicity or freedom of choice.
+
+↳ **Privacy and transparency**  
+All default programs are selected based on two criteria: **respect for user privacy** and **open source**. Browsers, utilities, and tools are carefully chosen — like Brave, which offers stability, performance, and a strong focus on privacy.
 
 ---
 
-## Licença
+## How to Install Coral OS
 
-Este projeto está licenciado sob a **MIT License**. Você pode utilizá-lo livremente, inclusive para fins comerciais. Apenas pedimos que os devidos créditos sejam mantidos e, se possível, que contribua de volta para o projeto.
+📌 **Note:** There is no official ISO or final release of Coral OS yet. However, you can follow the development and even test the build using the scripts available in this repository.
+
+Once the ISO is ready, an official installation guide will be published.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. You are free to use it, even for commercial purposes. All we ask is that proper credit is given — and if possible, consider contributing back to the project.
