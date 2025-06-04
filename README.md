@@ -22,9 +22,12 @@ All default programs are selected based on two criteria: **respect for user priv
 
 ## How to Install Coral OS
 
-📌 **Note:** There is no official ISO or final release of Coral OS yet. However, you can follow the development and even test the build using the scripts available in this repository.
+📌 **Note:** There is no official ISO or final release of Coral OS yet. However, you can follow the development and even test the build using the scripts available in the dedicated ISO repository.
 
 Once the ISO is ready, an official installation guide will be published.
+
+[Explore ISO build scripts and profiles here](https://github.com/Coral-OS/Coral_OS)
+
 
 ---
 
