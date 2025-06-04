@@ -20,9 +20,11 @@ Todos os programas incluídos por padrão no sistema são escolhidos com base em
 
 ## Como instalar o Coral OS
 
-📌 **Nota:** Ainda não há uma ISO oficial ou release final do Coral OS. No entanto, você pode acompanhar o desenvolvimento e testar a construção a partir dos scripts disponíveis neste repositório.
+📌 **Nota:** Ainda não há uma ISO oficial ou release final do Coral OS. No entanto, você pode acompanhar o desenvolvimento e testar a construção a partir dos scripts disponíveis no repositório dedicado.
 
 Assim que a ISO estiver disponível, será publicado um guia de instalação oficial.
+
+[Explore os scripts e perfis da ISO aqui](https://github.com/Coral-OS/Coral_OS)
 
 ---
 
